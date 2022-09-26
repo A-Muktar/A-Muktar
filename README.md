@@ -37,7 +37,8 @@ while(alive) {
 <a href="https://wa.me/+23408102075944"><i class="fa-brands fa-whatsApp"></i>WhatsApp</a> |
 <a href="mailto:techlead.in@gmail.com">Email</a> |
 <a href="https://www.linkedin.com/in/muktar-aliyu-988840239">LinkedIn</a> |
-<a href="https://t.me/Amuktar1">Telegram</a>
+<a href="https://t.me/Amuktar1">Telegram</a> |
+<a href="https://amuktar.netlify.app">Website</a>
 </h2>
 <!---
 A-Muktar/A-Muktar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
