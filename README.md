@@ -13,6 +13,9 @@
 - 💘 Love web, programming and ethical hacking 
 - 💎 Currently learning Java
 - 💞️ I’m looking to collaborate on python app development 
+   
+   
+   [![A-Muktar GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Muktar)](https://github.com/A-Muktar/github-readme-stats)
 
 
 <h1>HOW DO I WORK</h1>
